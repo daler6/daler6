@@ -7,16 +7,26 @@
 ### Welcome to Dale S. Rothman's Profile Page
 I am an Associate Professor at George Mason University
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-</details>
+---
+• Canvas - https://canvas.gmu.edu/login/canvas
+• CDS - https://science.gmu.edu/academics/departments-units/computational-data-sciences
+• CoS - https://science.gmu.edu/
+• CoS Intranet - https://gmuedu.sharepoint.com/sites/MasonScienceIntranet
+• CoSCC - https://coscc.science.gmu.edu/
+• Library - https://library.gmu.edu/
+• Main - https://www.gmu.edu/
+• MAIS - https://mais.gmu.edu/
+• MasonLEAPS - https://hr.gmu.edu/masonleaps/
+• Mason Finance Gateway - https://fiscal.gmu.edu/mason-finance-gateway/
+• Mason Reviewer - https://masongrad.my.salesforce.com/
+• Microsoft 365 - https://m365.cloud.microsoft/
+• Microstrategy - https://microstrategy.gmu.edu/, go through VPN offsite
+• Patriot Connect - https://connect.gmu.edu/
+• Patriot Web - https://patriotweb.gmu.edu/
+• RAMP - https://ramp.gmu.edu/
+• Stellic - https://stellic.gmu.edu
+• TargetX/SalesForce (applications) - https://masongrad.my.salesforce.com/
+• Travel Office - https://fiscal.gmu.edu/travel/
 
 ---
 > The only thing that will keep us from going crazy is a little bit of insanity
