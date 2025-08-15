@@ -22,7 +22,7 @@ I am an Associate Professor at George Mason University
 * MasonLEAPS - https://hr.gmu.edu/masonleaps/
 * Mason Finance Gateway - https://fiscal.gmu.edu/mason-finance-gateway/
 * Mason Reviewer - https://masongrad.my.salesforce.com/
-* [Microsoft 365](https://m365.cloud.microsoft/)
+* [Microsoft 365 Co-Pilot](https://m365.cloud.microsoft/)
   * [OneDrive](https://gmuedu-my.sharepoint.com/my?login_hint=drothma%40GMU%2EEDU&source=waffle)
 * Microstrategy - https://microstrategy.gmu.edu/, go through VPN offsite
 * Patriot Connect - https://connect.gmu.edu/
