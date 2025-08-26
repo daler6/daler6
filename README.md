@@ -16,7 +16,7 @@ I am an Associate Professor at George Mason University
 * CoS - https://science.gmu.edu/
 * CoS Intranet - https://gmuedu.sharepoint.com/sites/MasonScienceIntranet/  
 * CoSCC - https://coscc.science.gmu.edu/
-* [CourseLeaf]([https://shibboleth.gmu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1](http://workingcatalog.gmu.edu/courseleaf))
+* [CourseLeaf](http://workingcatalog.gmu.edu/courseleaf)
 * Library - https://library.gmu.edu/
 * Main - https://www.gmu.edu/
 * MAIS - https://mais.gmu.edu/
