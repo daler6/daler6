@@ -11,7 +11,7 @@ I am an Associate Professor at George Mason University
 
 ---
 ## GMU Websites
-* [Canvas](https://canvas.gmu.edu/login/canvas/)
+* [Canvas](https://info.canvas.gmu.edu/)
 * [Catalog](https://catalog.gmu.edu/)
 * [CDS](https://science.gmu.edu/academics/departments-units/computational-data-sciences/)
 * [CoS](https://science.gmu.edu/)
