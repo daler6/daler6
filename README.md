@@ -28,6 +28,7 @@ I am an Associate Professor at George Mason University
 * [Microsoft 365 Co-Pilot](https://m365.cloud.microsoft/)
   * [OneDrive](https://gmuedu-my.sharepoint.com/my?login_hint=drothma%40GMU%2EEDU&source=waffle)
 * [Microstrategy](https://microstrategy.gmu.edu/), go through VPN offsite
+* [PatriotAI](https://patriotai.gmu.edu/chat/onechat)
 * [Patriot Connect](https://connect.gmu.edu/)
 * [Patriot Web](https://patriotweb.gmu.edu/)
 * [RAMP](https://ramp.gmu.edu/)
