@@ -13,6 +13,8 @@ I am an Associate Professor at George Mason University
 ## GMU Websites
 * [Canvas](https://info.canvas.gmu.edu/)
 * [Catalog](https://catalog.gmu.edu/)
+  * [CSS Graduate Certificate](https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-graduate-certificate/)
+  * [CSS Phd](https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-phd/)
 * [CDS](https://science.gmu.edu/academics/departments-units/computational-data-sciences/)
 * [CoS](https://science.gmu.edu/)
 * [CoS Intranet](https://gmuedu.sharepoint.com/sites/MasonScienceIntranet/)  
