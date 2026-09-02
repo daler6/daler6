@@ -35,6 +35,7 @@ I am an Associate Professor at George Mason University
 * [PatriotAI](https://patriotai.gmu.edu/chat/onechat)
 * [Patriot Connect](https://masonconnect.my.salesforce.com/)
 * [Patriot Web](https://patriotweb.gmu.edu/)
+* [Qualtrics](https://gmu.qualtrics.com/)
 * [RAMP](https://ramp.gmu.edu/)
 * [Stellic](https://stellic.gmu.edu/)
 * [TargetX/SalesForce (applications)](https://masongrad.my.salesforce.com/)
